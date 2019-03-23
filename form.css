@@ -1,0 +1,47 @@
+body{
+  background: #48C9B0;
+  text-align: center;
+}
+.main{
+  display: flex;
+  width:90%;
+  padding: 2%;
+  margin: 2%;
+
+}
+main select{
+  width: 95%;
+  border:2px solid black;
+  border-radius: 20px;
+  margin: 2%;
+  padding: 1%;
+}
+section{
+  background:#808B96  ;
+  text-align: center;
+  margin: 1%;
+  padding: 1%;
+  width: 96%;
+}
+input,select{
+  width: 90%;
+  padding: 1%;
+  margin: 1%;
+  display: block;
+  border: 1 px solid black;
+}
+#career{
+  width: 95%;
+  margin: 1%;
+  padding: 1%;
+  display: block;
+}
+button{
+  width: 30%;
+  background: white;
+  color: black;
+  font-size: 30px;
+  margin: 1%;
+  padding: 1%;
+  font-weight: bold;
+}
